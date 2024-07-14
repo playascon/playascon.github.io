@@ -29,7 +29,7 @@
 ### Capture The Flag (CTF)
 <p>To make this tool more fun, I’ve added an easy CTF (Capture The Flag) challenge to be solved. I am planning to add more challenges, to help you visualize how a nonce misuse attack could take place for example.</p>
 
-<img width="899" alt="ctf" src="https://github.com/playascon/playascon.github.io/assets/104282801/9a309357-dfbf-4d5e-9ce5-fef0471697cd">
+<img width="899" alt="ctf" src="https://github.com/user-attachments/assets/c16a4f7d-1c52-4440-898c-74efc91cbf25">
 
 ### Hall of Fame (HoF)
 <p>After the <a href="https://groups.google.com/a/list.nist.gov/g/lwc-forum/c/1k6o4hlYG6A" target="_blank">initial release</a> of playascon, people started testing it and found some bugs in the format of the data displayed. You can find the two issues here:</p>
@@ -39,7 +39,6 @@ As a sign of appreciation for reaching out, I made a Hall of Fame to list their 
 
 ### Feedback
 <p>I hope playascon will be the way-to-go tool for students to play out with Ascon, which is expected to have a very important role in the upcoming era of securing lightweight devices. The main reward I am welling to get from this project is to see feedbacks like this:</p>
-
-<img width="452" alt="github_comment" src="https://github.com/playascon/playascon.github.io/assets/104282801/2950b84f-545c-4047-9cca-0d9e2dff2028">
+<img width="452" alt="github_comment" src="https://github.com/user-attachments/assets/36d75f04-5643-462e-a86e-fd77a026a41d">
 <p>Also, if you have any suggestions to modify or add something to the tool, feel free to raise an issue or email me at 0xmohamed.tarek@gmail.com</p>
 
