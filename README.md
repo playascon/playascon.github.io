@@ -1,6 +1,6 @@
 <h1 align="center">playascon</h1>
 <p align="center">
-<img width="250" alt="ascon_sponge_canal_system" src="https://github.com/playascon/playascon.github.io/assets/104282801/206bd7c5-f184-4f53-9ccb-eba4c5221787">
+<img width="250" alt="ascon_sponge_canal_system" src="https://github.com/motarekk/motarekk.github.io/assets/104282801/206bd7c5-f184-4f53-9ccb-eba4c5221787">
 </p>
 
 ### First online tool for <a href="https://ascon.iaik.tugraz.at/" target="_blank">Ascon cipher</a> on the internet [<a href="https://medium.com/@motarekk/playascon-3aba1fbad330" target="_blank">blogpost</a>]
@@ -13,7 +13,8 @@
 <li>Ascon-XOFa</li>
 <br>
 <p>Ascon is a family of many variants:</p>
-<img width="788" alt="ascon-family" src="https://github.com/playascon/playascon.github.io/assets/104282801/86c96c3e-c684-44e2-adb4-f9cf6c8b3239">
+<img width="788" alt="ascon-family" src="https://github.com/user-attachments/assets/633f03b5-8c6f-46ca-9c25-d24c1a0b5176">
+
 <p>As discussed in the <a href="https://groups.google.com/a/list.nist.gov/g/lwc-forum/c/XIePMSwDSmQ" target="_blank">LWC-Forum</a>, NIST is considering only some of these variants to be standardized, which are: Ascon-128, Ascon-128a for AEAD, and Ascon-XOF for hashing. Therefore, those are the variants supported by playascon.</p>
 
 ### Features
